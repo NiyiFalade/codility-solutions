@@ -8,6 +8,8 @@ Each task is implemented in its own file with a `solution()` function and embedd
 ## 📂 Structure
 - `odd_occurrences.py` → OddOccurrencesInArray
 - `binary_gap.py` → BinaryGap
+- `from_jmp.py` → FrogJmp
+
 
 
 - ...
