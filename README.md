@@ -8,6 +8,7 @@ Each task is implemented in its own file with a `solution()` function and embedd
 ## 📂 Structure
 - `odd_occurrences.py` → OddOccurrencesInArray
 - `binary_gap.py` → BinaryGap
+`cyclic_rotation.py` - cyclicRotation
 - `from_jmp.py` → FrogJmp
 
 
